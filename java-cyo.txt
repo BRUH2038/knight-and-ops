@@ -1,0 +1,6 @@
+// https://youtu.be/7JtLHJbm0kA
+// https://www.pixilart.com/gallery/topics/landscape
+$(function(){
+
+}
+)
